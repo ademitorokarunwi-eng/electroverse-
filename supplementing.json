@@ -1,0 +1,4240 @@
+[
+  {
+    "access_type": "Public",
+    "address": "Pennys Walk",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD",
+      "DEBIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": false,
+    "city": "Ferndown",
+    "coordinates": {
+      "latitude": 50.80113,
+      "longitude": -1.89314
+    },
+    "country": "GBR",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "150",
+            "last_updated": "2021-09-07T18:13:48Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          },
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "151",
+            "last_updated": "2021-09-07T18:13:48Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "last_updated": "2021-12-14T03:56:22Z",
+        "status": "UNKNOWN",
+        "uid": "19811"
+      },
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "112",
+            "last_updated": "2021-09-07T18:13:48Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          },
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "113",
+            "last_updated": "2021-09-07T18:13:48Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "last_updated": "2021-12-14T03:56:22Z",
+        "status": "UNKNOWN",
+        "uid": "19812"
+      }
+    ],
+    "id": "69024e98-3424-11ea-a490-42010a840003",
+    "last_updated": "2022-01-29T23:03:33Z",
+    "location_type": [
+      {
+        "code": "PARKING_GARAGE",
+        "description": "PARKING_GARAGE"
+      }
+    ],
+    "name": "Tesco Superstore - Ferndown",
+    "operator": {
+      "name": "PPEV"
+    },
+    "owner": {
+      "name": "PPEV"
+    },
+    "postal_code": "BH22 9TH",
+    "support_phone_number": "+(44)-(207)-2474114",
+    "time_zone": "Europe/London",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Ardgartan Arrochar",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD",
+      "DEBIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": false,
+    "city": "Argyll and Bute",
+    "coordinates": {
+      "latitude": 56.188826,
+      "longitude": -4.781272
+    },
+    "country": "GBR",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "56",
+            "last_updated": "2021-09-07T18:08:59Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          },
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "57",
+            "last_updated": "2021-09-07T18:08:59Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "last_updated": "2021-12-14T03:56:00Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "status": "UNKNOWN",
+        "uid": "5962"
+      }
+    ],
+    "id": "adcb22b2-adeb-11e9-aebf-42010a840003",
+    "last_updated": "2021-09-07T18:08:59Z",
+    "location_type": [
+      null
+    ],
+    "name": "Forest Holidays - Ardgartan Argyll",
+    "operator": {
+      "name": "PPEV"
+    },
+    "owner": {
+      "name": "PPEV"
+    },
+    "postal_code": "G83 7AR",
+    "support_phone_number": "+(44)-(207)-2474114",
+    "time_zone": "Europe/London",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Regent Street ",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD",
+      "DEBIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": false,
+    "city": "Plymouth",
+    "coordinates": {
+      "latitude": 50.373154,
+      "longitude": -4.135987
+    },
+    "country": "GBR",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "56",
+            "last_updated": "2021-09-14T11:23:18Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          },
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "57",
+            "last_updated": "2021-09-14T11:23:18Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "last_updated": "2021-12-14T03:55:43Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "status": "UNKNOWN",
+        "uid": "2865"
+      },
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "56",
+            "last_updated": "2021-09-14T11:23:18Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          },
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "57",
+            "last_updated": "2021-09-14T11:23:18Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "last_updated": "2021-12-14T03:55:43Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "status": "UNKNOWN",
+        "uid": "2866"
+      }
+    ],
+    "id": "2e0081a2-5473-11e9-8d3d-42010a840003",
+    "last_updated": "2021-09-14T11:23:18Z",
+    "location_type": [
+      {
+        "code": "PARKING_GARAGE",
+        "description": "PARKING_GARAGE"
+      }
+    ],
+    "name": "Regent Street (Public Car Park)",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "PPEV"
+    },
+    "owner": {
+      "name": "PPEV"
+    },
+    "postal_code": "PL1 8BA",
+    "support_phone_number": "+(44)-(207)-2474114",
+    "time_zone": "Europe/London",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Penglais Campus Penglais",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD",
+      "DEBIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": false,
+    "city": "Aberystwyth",
+    "coordinates": {
+      "latitude": 52.416224,
+      "longitude": -4.065662
+    },
+    "country": "GBR",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "105",
+            "last_updated": "2021-09-07T18:11:15Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "last_updated": "2021-12-14T03:56:13Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "status": "UNKNOWN",
+        "uid": "14781"
+      }
+    ],
+    "id": "1dc18fd4-d367-11e9-8fa8-42010a840003",
+    "last_updated": "2021-09-07T18:11:15Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "Aberystwyth University (Dept. of Computer Science Building Car Park)",
+    "operator": {
+      "name": "PPEV"
+    },
+    "owner": {
+      "name": "PPEV"
+    },
+    "postal_code": "SY23 3DU",
+    "support_phone_number": "+(44)-(207)-2474114",
+    "time_zone": "Europe/London",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Private",
+    "address": "De Witte Bergen 56",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "IJhorst",
+    "coordinates": {
+      "latitude": 52.654515,
+      "longitude": 6.299315
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1407143",
+            "last_updated": "2021-12-23T06:06:23Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*ELHYJZYP3OH4LSO64BQQPW4N7RA",
+        "last_updated": "2021-12-23T06:06:23Z",
+        "physical_reference": "NL*EVB*ELHYJZYP3",
+        "status": "AVAILABLE",
+        "uid": "LHYJZYP3OH4LSO64BQQPW4N7RA"
+      }
+    ],
+    "id": "f14a6b72-4e71-11e8-a236-42010a840002",
+    "last_updated": "2022-01-31T06:04:07Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1402327",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "7955 PX",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Hallinkskaamp 20",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Lemele",
+    "coordinates": {
+      "latitude": 52.453988,
+      "longitude": 6.416222
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1313071",
+            "last_updated": "2021-12-23T06:06:37Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*ELJZLECDN4TY5IWOCB5LZHIHBBE",
+        "last_updated": "2022-01-04T17:28:33Z",
+        "physical_reference": "NL*EVB*ELJZLECDN",
+        "status": "AVAILABLE",
+        "uid": "LJZLECDN4TY5IWOCB5LZHIHBBE"
+      }
+    ],
+    "id": "faefd52c-4e71-11e8-904a-42010a840002",
+    "last_updated": "2022-01-31T06:05:48Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1321096",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "8148 PD",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Private",
+    "address": "Zuidlaan 15",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Bergen",
+    "coordinates": {
+      "latitude": 52.676696,
+      "longitude": 4.69567
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1348111",
+            "last_updated": "2021-12-23T06:21:17Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EJF7M7J4D6ULD5EBPQ2C2TWOPDI",
+        "last_updated": "2022-01-31T21:56:55Z",
+        "physical_reference": "NL*EVB*EJF7M7J4D",
+        "status": "CHARGING",
+        "uid": "JF7M7J4D6ULD5EBPQ2C2TWOPDI"
+      }
+    ],
+    "facilities": [
+      "RECREATION_AREA"
+    ],
+    "id": "594cc202-70ad-11e9-927d-42010a840fd3",
+    "last_updated": "2022-01-31T21:56:56Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1347098",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "1861 GS",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Scheepvaartweg 8-10",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Nijmegen",
+    "coordinates": {
+      "latitude": 51.852532,
+      "longitude": 5.828948
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1729014",
+            "last_updated": "2022-01-11T13:06:16Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EWN4IILDFRN5UONHLHUJZ3LW6WU",
+        "last_updated": "2022-01-27T07:32:43Z",
+        "physical_reference": "NL*EVB*EWN4IILDF",
+        "status": "AVAILABLE",
+        "uid": "WN4IILDFRN5UONHLHUJZ3LW6WU"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1729039",
+            "last_updated": "2021-12-23T06:04:48Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*ED2ADWSFCHAEGUJ7XTVTVY362MQ",
+        "last_updated": "2022-02-02T07:15:55Z",
+        "physical_reference": "NL*EVB*ED2ADWSFC",
+        "status": "CHARGING",
+        "uid": "D2ADWSFCHAEGUJ7XTVTVY362MQ"
+      }
+    ],
+    "id": "b8f02b60-4f3c-11e8-b226-42010a840002",
+    "last_updated": "2022-02-02T07:15:55Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1724382",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "6541CV",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Auf der Haiden 2",
+    "adhoc_authorisation_method": [
+      "QR_CODE"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Braunau am Inn",
+    "coordinates": {
+      "latitude": 48.250022,
+      "longitude": 13.0473
+    },
+    "country": "AUT",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "RESERVABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 125,
+            "format": "CABLE",
+            "id": "f05095cc-be4c-41fd-8358-9a179a61d3b0",
+            "last_updated": "2022-01-11T17:36:23Z",
+            "max_power": 50000,
+            "power_type": "DC",
+            "standard": "CHADEMO",
+            "voltage": 400
+          }
+        ],
+        "evse_id": "AT*ENA*E02202",
+        "last_updated": "2022-01-22T12:20:02Z",
+        "physical_reference": "AT*ENA*E02202",
+        "status": "AVAILABLE",
+        "uid": "f05095cc-be4c-41fd-8358-9a179a61d3b0"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "RESERVABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 100,
+            "format": "CABLE",
+            "id": "72ed64ff-1378-41f6-a6bb-963364cbaed4",
+            "last_updated": "2021-11-26T09:16:32Z",
+            "max_power": 50000,
+            "power_type": "DC",
+            "standard": "IEC_62196_T2_COMBO",
+            "voltage": 500
+          }
+        ],
+        "evse_id": "AT*ENA*E02201",
+        "last_updated": "2022-02-02T17:04:50Z",
+        "physical_reference": "AT*ENA*E02201",
+        "status": "AVAILABLE",
+        "uid": "72ed64ff-1378-41f6-a6bb-963364cbaed4"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "RESERVABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "CABLE",
+            "id": "fd4e6073-10fa-479c-b01e-086308b48219",
+            "last_updated": "2021-11-26T16:15:58Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "AT*ENA*E02200",
+        "last_updated": "2022-01-30T18:12:29Z",
+        "physical_reference": "AT*ENA*E02200",
+        "status": "AVAILABLE",
+        "uid": "fd4e6073-10fa-479c-b01e-086308b48219"
+      }
+    ],
+    "id": "d7ab4ddc-41d3-11eb-99fe-42010a840003",
+    "last_updated": "2022-02-02T17:04:51Z",
+    "location_type": [
+      null
+    ],
+    "name": "EAGEV EcoDrom Tankstelle Braunau",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "EAGEV"
+    },
+    "owner": {
+      "name": "EAGEV"
+    },
+    "postal_code": "5280",
+    "support_phone_number": "+(43)-(800)-818000",
+    "time_zone": "Europe/Vienna",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Poortcamp 17",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "De Lier",
+    "coordinates": {
+      "latitude": 51.956125,
+      "longitude": 4.23287
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "20451810",
+            "last_updated": "2021-12-23T06:34:54Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*ECHIUFANO7P5E76EFW6C53W6ELU",
+        "last_updated": "2022-02-01T16:47:21Z",
+        "physical_reference": "NL*EVB*ECHIUFANO",
+        "status": "AVAILABLE",
+        "uid": "CHIUFANO7P5E76EFW6C53W6ELU"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "21061701",
+            "last_updated": "2021-12-23T06:34:54Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EQ35TTEAPD6NEJOTUB62FKP7BPE",
+        "last_updated": "2022-01-31T16:26:22Z",
+        "physical_reference": "NL*EVB*EQ35TTEAP",
+        "status": "AVAILABLE",
+        "uid": "Q35TTEAPD6NEJOTUB62FKP7BPE"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "20501646",
+            "last_updated": "2021-12-23T06:34:54Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EBVB7OWKRNMWO24O4FZDU5AGT7I",
+        "last_updated": "2022-02-02T17:09:16Z",
+        "physical_reference": "NL*EVB*EBVB7OWKR",
+        "status": "AVAILABLE",
+        "uid": "BVB7OWKRNMWO24O4FZDU5AGT7I"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "20501634",
+            "last_updated": "2021-12-23T06:34:54Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EDU5BQ4BQYN5TG7XTM3GTFS6RTM",
+        "last_updated": "2022-01-31T17:10:58Z",
+        "physical_reference": "NL*EVB*EDU5BQ4BQ",
+        "status": "AVAILABLE",
+        "uid": "DU5BQ4BQYN5TG7XTM3GTFS6RTM"
+      }
+    ],
+    "id": "1a27dd02-a1c8-11eb-8cb2-42010a840023",
+    "last_updated": "2022-02-02T17:09:17Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P20351910",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "2678 PT",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Insektsv\u00e4gen",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Mariestad",
+    "coordinates": {
+      "latitude": 58.700446,
+      "longitude": 13.794319
+    },
+    "country": "SWE",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "f7b6279d-e436-46da-8a4f-eb002de6ff49",
+            "last_updated": "2021-09-14T13:14:16Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "SE*PCS*E1000597",
+        "last_updated": "2021-10-05T16:41:11Z",
+        "physical_reference": "SE*PCS*E1000597",
+        "status": "AVAILABLE",
+        "uid": "f7b6279d-e436-46da-8a4f-eb002de6ff49"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "33657053-eb8c-495b-9309-0ce586302f93",
+            "last_updated": "2021-09-14T13:14:16Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "SE*PCS*E1000598",
+        "last_updated": "2021-10-26T10:07:30Z",
+        "physical_reference": "SE*PCS*E1000598",
+        "status": "AVAILABLE",
+        "uid": "33657053-eb8c-495b-9309-0ce586302f93"
+      }
+    ],
+    "id": "b01251e8-cea2-11ea-9e1c-42010a840003",
+    "last_updated": "2022-02-01T15:16:01Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "P&CEV PCS00640",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "P&CEV"
+    },
+    "owner": {
+      "name": "P&CEV"
+    },
+    "postal_code": "542 31",
+    "support_phone_number": "+(46)-(21)-403499",
+    "time_zone": "Europe/Stockholm",
+    "type": "PARKING_LOT"
+  },
+  {
+    "access_type": "Public",
+    "address": "Keizersmantelweg 285",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Hoogvliet Rotterdam",
+    "coordinates": {
+      "latitude": 51.859232,
+      "longitude": 4.347699
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1927266",
+            "last_updated": "2021-12-23T06:24:02Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*E6OPEHRLJP6U3CBXXRGUJI27T4E",
+        "last_updated": "2022-02-02T17:14:24Z",
+        "physical_reference": "NL*EVB*E6OPEHRLJ",
+        "status": "CHARGING",
+        "uid": "6OPEHRLJP6U3CBXXRGUJI27T4E"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1927605",
+            "last_updated": "2021-12-23T06:24:02Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*E6PJHVOHLONSNNRTK44IQQMFRYI",
+        "last_updated": "2022-02-02T09:17:50Z",
+        "physical_reference": "NL*EVB*E6PJHVOHL",
+        "status": "AVAILABLE",
+        "uid": "6PJHVOHLONSNNRTK44IQQMFRYI"
+      }
+    ],
+    "id": "fbaf6048-0ab0-11ea-a271-42010a840fed",
+    "last_updated": "2022-02-02T17:14:25Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1934492",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3192 VZ",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Friedensplatz 2",
+    "adhoc_authorisation_method": [
+      "QR_CODE",
+      "OTHER",
+      "DEBIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Moosdorf",
+    "coordinates": {
+      "latitude": 48.047547,
+      "longitude": 12.988517
+    },
+    "country": "AUT",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "a5f158a0-f7ad-445d-94dd-c5c45f4b813b",
+            "last_updated": "2021-09-14T21:30:11Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "AT*ENA*E02080",
+        "last_updated": "2022-01-31T08:34:50Z",
+        "physical_reference": "AT*ENA*E02080",
+        "status": "AVAILABLE",
+        "uid": "a5f158a0-f7ad-445d-94dd-c5c45f4b813b"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "66abf704-5575-4c28-9a41-7d54f498c226",
+            "last_updated": "2021-09-14T21:30:11Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "AT*ENA*E02079",
+        "last_updated": "2022-01-30T18:39:10Z",
+        "physical_reference": "AT*ENA*E02079",
+        "status": "AVAILABLE",
+        "uid": "66abf704-5575-4c28-9a41-7d54f498c226"
+      }
+    ],
+    "id": "fc3bbca8-98e3-11e9-bdda-42010a840003",
+    "last_updated": "2022-02-01T14:05:52Z",
+    "location_type": [
+      null
+    ],
+    "name": "EAGEV Gemeinde Moosdorf",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "EAGEV"
+    },
+    "owner": {
+      "name": "EAGEV"
+    },
+    "postal_code": "5141",
+    "support_phone_number": "+(43)-(800)-818000",
+    "time_zone": "Europe/Vienna",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Pieterman 2",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Volendam",
+    "coordinates": {
+      "latitude": 52.49155,
+      "longitude": 5.06411
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-02-01T13:40:13Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*GFX*EPP002311*1",
+        "last_updated": "2022-02-02T06:48:28Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NL*GFX*EPP002311",
+        "status": "AVAILABLE",
+        "uid": "NL-GFX-EPP002311-1"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "2",
+            "last_updated": "2022-02-01T13:40:13Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*GFX*EPP002311*2",
+        "last_updated": "2022-02-02T13:22:53Z",
+        "physical_reference": "NL*GFX*EPP002311",
+        "status": "AVAILABLE",
+        "uid": "NL-GFX-EPP002311-2"
+      }
+    ],
+    "facilities": [
+      "STORE"
+    ],
+    "id": "f7e15c3e-8f30-11e8-bf78-42010a840002",
+    "last_updated": "2022-02-02T13:22:54Z",
+    "location_type": [
+      null
+    ],
+    "name": "PP002311",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "PPEV"
+    },
+    "owner": {
+      "name": "PPEV"
+    },
+    "postal_code": "1131 PW",
+    "related_locations": null,
+    "suboperator": {
+      "name": "PPEV"
+    },
+    "support_phone_number": "+(31)-(30)-4100887",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Hof van Delftsesluis 43",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Vlaardingen",
+    "coordinates": {
+      "latitude": 51.90196,
+      "longitude": 4.340855
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "2013358",
+            "last_updated": "2021-12-23T06:31:43Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EZ4OEX4KY65HKANPWFRZHZDB5QI",
+        "last_updated": "2022-02-02T11:30:51Z",
+        "physical_reference": "NL*EVB*EZ4OEX4KY",
+        "status": "AVAILABLE",
+        "uid": "Z4OEX4KY65HKANPWFRZHZDB5QI"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "2013793",
+            "last_updated": "2021-12-23T06:31:43Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*E6256TAN4YH7ZV6HYNGGX37OKVA",
+        "last_updated": "2022-02-02T14:47:20Z",
+        "physical_reference": "NL*EVB*E6256TAN4",
+        "status": "CHARGING",
+        "uid": "6256TAN4YH7ZV6HYNGGX37OKVA"
+      }
+    ],
+    "id": "58913b4e-24b2-11eb-b207-42010a84003d",
+    "last_updated": "2022-02-02T14:47:21Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P2004440",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3133 MB",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Samuel Leviestraat 7",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Leek",
+    "coordinates": {
+      "latitude": 53.162315,
+      "longitude": 6.389802
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:37:49Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0111372",
+        "last_updated": "2022-02-02T14:56:49Z",
+        "physical_reference": "NLALLCHARGERS0111372",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0111372"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:37:49Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0111371",
+        "last_updated": "2022-02-02T15:46:27Z",
+        "physical_reference": "NLALLCHARGERS0111371",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0111371"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:37:49Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0111382",
+        "last_updated": "2022-02-02T11:46:48Z",
+        "physical_reference": "NLALLCHARGERS0111382",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0111382"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:37:49Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0111381",
+        "last_updated": "2022-02-02T13:42:33Z",
+        "physical_reference": "NLALLCHARGERS0111381",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0111381"
+      }
+    ],
+    "id": "b723cc2a-bbea-11ea-b787-42010a840003",
+    "last_updated": "2022-02-02T15:46:28Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "ACV NLALLCHARGERS011138",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "9351 BM",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Avenue du Martin Pecheur 4",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Watermael Boitsfort",
+    "coordinates": {
+      "latitude": 50.810732,
+      "longitude": 4.400616
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-02-01T13:43:02Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*GFX*EPP003308*1",
+        "last_updated": "2022-02-02T11:51:36Z",
+        "physical_reference": "BE*GFX*EPP003308",
+        "status": "CHARGING",
+        "uid": "BE-GFX-EPP003308-1"
+      },
+      {
+        "capabilities": [],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "2",
+            "last_updated": "2022-02-01T13:43:02Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*GFX*EPP003308*2",
+        "last_updated": "2022-02-02T17:03:11Z",
+        "physical_reference": "BE*GFX*EPP003308",
+        "status": "CHARGING",
+        "uid": "BE-GFX-EPP003308-2"
+      }
+    ],
+    "id": "baf9f802-e8f8-11ea-871d-42010a840fdd",
+    "last_updated": "2022-02-02T17:03:12Z",
+    "location_type": [
+      null
+    ],
+    "name": "PP003308",
+    "opening_times": {
+      "exceptional_closings": null,
+      "exceptional_openings": null,
+      "regular_hours": null,
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "Green EV"
+    },
+    "owner": {
+      "name": "Green EV"
+    },
+    "postal_code": "1170",
+    "suboperator": {
+      "name": "Green EV"
+    },
+    "support_phone_number": "+(32)-(0800)-11899",
+    "time_zone": "Europe/Brussels",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Middendreef 281",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Lelystad",
+    "coordinates": {
+      "latitude": 52.496194,
+      "longitude": 5.474364
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "0",
+            "last_updated": "2022-01-31T03:59:37Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*TNM*E04000689*0",
+        "last_updated": "2022-01-31T03:59:37Z",
+        "physical_reference": "NL*TNM*E04000689",
+        "status": "AVAILABLE",
+        "uid": "04000689_1"
+      }
+    ],
+    "id": "45e07346-acbd-11eb-b22e-42010a840008",
+    "last_updated": "2022-02-01T04:07:18Z",
+    "location_type": [
+      null
+    ],
+    "name": "04000689",
+    "operator": {
+      "name": "The New Moves"
+    },
+    "owner": {
+      "name": "The New Moves"
+    },
+    "postal_code": "8233 GT",
+    "support_phone_number": "+(31)-(88)-0109500",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Bronkhorststraat 15",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Leiden",
+    "coordinates": {
+      "latitude": 52.165404,
+      "longitude": 4.497438
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:21:30Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0007581",
+        "last_updated": "2022-02-02T14:16:44Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0007581",
+        "status": "CHARGING",
+        "uid": "NLALLCHARGERS0007581"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:21:30Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0007582",
+        "last_updated": "2022-02-01T17:22:15Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0007582",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0007582"
+      }
+    ],
+    "id": "5a4069d6-4f3c-11e8-9380-42010a840002",
+    "last_updated": "2022-02-02T14:16:45Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS000758",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "2316 SW",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Hardwareweg 1",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Amersfoort",
+    "coordinates": {
+      "latitude": 52.173387,
+      "longitude": 5.410348
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1915808",
+            "last_updated": "2021-12-23T06:25:13Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EMFOR2M2DMMGZLA2ZWJSH446XWY",
+        "last_updated": "2022-01-18T12:13:11Z",
+        "physical_reference": "NL*EVB*EMFOR2M2D",
+        "status": "AVAILABLE",
+        "uid": "MFOR2M2DMMGZLA2ZWJSH446XWY"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1915919",
+            "last_updated": "2021-12-23T06:25:13Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*E5L35KORVBKE7JH2D4QPANQ6U6Q",
+        "last_updated": "2022-01-20T08:27:51Z",
+        "physical_reference": "NL*EVB*E5L35KORV",
+        "status": "CHARGING",
+        "uid": "5L35KORVBKE7JH2D4QPANQ6U6Q"
+      }
+    ],
+    "facilities": [
+      "BUSINESS"
+    ],
+    "id": "41957412-41ed-11ea-a653-42010a840fde",
+    "last_updated": "2022-02-02T05:02:45Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1917574",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3821 BL",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Kanaalweg Westzijde 2",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Veere",
+    "coordinates": {
+      "latitude": 51.545766,
+      "longitude": 3.667929
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:23:56Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0076282",
+        "last_updated": "2022-02-02T13:08:26Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0076282",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0076282"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:23:56Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0076281",
+        "last_updated": "2022-02-01T15:25:51Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0076281",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0076281"
+      }
+    ],
+    "facilities": [
+      "CARPOOL_PARKING"
+    ],
+    "id": "86af96c2-4f3c-11e8-9b3c-42010a840002",
+    "last_updated": "2022-02-02T13:08:27Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "ACV NLALLCHARGERS007628",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "4351 RE",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Stakenbergerhout  98",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Harderwijk",
+    "coordinates": {
+      "latitude": 52.320463,
+      "longitude": 5.604228
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:22:35Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0016571",
+        "last_updated": "2022-02-02T12:53:44Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0016571",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0016571"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:22:35Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0016572",
+        "last_updated": "2022-01-29T00:40:18Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0016572",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0016572"
+      }
+    ],
+    "id": "7a6c5012-4f3c-11e8-8b17-42010a840002",
+    "last_updated": "2022-02-02T12:53:45Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS001657",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "3845 JG",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Parklaan 22",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Turnhout",
+    "coordinates": {
+      "latitude": 51.31156,
+      "longitude": 4.934304
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "0",
+            "last_updated": "2021-12-25T03:29:50Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*TNM*E08104833*0",
+        "last_updated": "2022-02-02T18:34:03Z",
+        "physical_reference": "BE*TNM*E08104833",
+        "status": "AVAILABLE",
+        "uid": "08104833_1"
+      },
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "0",
+            "last_updated": "2021-12-24T03:40:01Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*TNM*E09102501*0",
+        "last_updated": "2022-02-02T18:12:39Z",
+        "physical_reference": "BE*TNM*E09102501",
+        "status": "AVAILABLE",
+        "uid": "09102501_1"
+      }
+    ],
+    "id": "3993e55a-c9eb-11eb-b462-42010a84001c",
+    "last_updated": "2022-02-02T18:34:04Z",
+    "location_type": [
+      null
+    ],
+    "name": "09102501",
+    "operator": {
+      "name": "The New Moves"
+    },
+    "owner": {
+      "name": "The New Moves"
+    },
+    "postal_code": "2300",
+    "support_phone_number": "+(32)-(2)-5881251",
+    "time_zone": "Europe/Brussels",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Energieweg 9",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Zwolle",
+    "coordinates": {
+      "latitude": 52.495942,
+      "longitude": 6.106323
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:38:48Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0131652",
+        "last_updated": "2022-02-02T14:09:40Z",
+        "physical_reference": "NLALLCHARGERS0131652",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0131652"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:38:48Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0131651",
+        "last_updated": "2022-02-01T08:19:31Z",
+        "physical_reference": "NLALLCHARGERS0131651",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0131651"
+      }
+    ],
+    "id": "5b9a8c66-0da4-11eb-8fda-42010a840033",
+    "last_updated": "2022-02-02T14:09:41Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS013165",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "8017 BE",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Van Disselstraat 21",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Zwolle",
+    "coordinates": {
+      "latitude": 52.540936,
+      "longitude": 6.035809
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:41:44Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0134041",
+        "last_updated": "2022-02-02T13:30:12Z",
+        "physical_reference": "NLALLCHARGERS0134041",
+        "status": "CHARGING",
+        "uid": "NLALLCHARGERS0134041"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:41:44Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0134042",
+        "last_updated": "2022-02-02T17:31:43Z",
+        "physical_reference": "NLALLCHARGERS0134042",
+        "status": "CHARGING",
+        "uid": "NLALLCHARGERS0134042"
+      }
+    ],
+    "id": "37f40444-ca4c-11eb-95a0-42010a840003",
+    "last_updated": "2022-02-02T17:31:44Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS013404",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "8044 PL",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "PARKING_LOT"
+  },
+  {
+    "access_type": "Private",
+    "address": "Laaxumstraat 32",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Amersfoort",
+    "coordinates": {
+      "latitude": 52.19944,
+      "longitude": 5.432994
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1922509",
+            "last_updated": "2021-12-23T06:23:17Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EO2IAQH7S5PSUDKTPJWY6SHJGNI",
+        "last_updated": "2021-12-23T06:23:17Z",
+        "physical_reference": "NL*EVB*EO2IAQH7S",
+        "status": "AVAILABLE",
+        "uid": "O2IAQH7S5PSUDKTPJWY6SHJGNI"
+      },
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "EVB-P1926773_B1922509",
+            "last_updated": "2022-01-30T14:52:42Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EEVBP1926773*1922509",
+        "last_updated": "2022-02-01T04:12:17Z",
+        "physical_reference": "NL*EVB*EEVBP1926",
+        "status": "REMOVED",
+        "uid": "EVB-P1926773_B1922509"
+      }
+    ],
+    "id": "58206b24-e5db-11e9-8443-42010a840034",
+    "last_updated": "2022-01-31T07:53:34Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1926773",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3826 AJ",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Minderbroedersstraat 2",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Genk",
+    "coordinates": {
+      "latitude": 50.999389,
+      "longitude": 5.507735
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:49:57Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BEALLCHARGERS0006522",
+        "last_updated": "2022-02-02T12:11:53Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "BEALLCHARGERS0006522",
+        "status": "CHARGING",
+        "uid": "BEALLCHARGERS0006522"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:49:57Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BEALLCHARGERS0006521",
+        "last_updated": "2022-01-31T21:14:55Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "BEALLCHARGERS0006521",
+        "status": "AVAILABLE",
+        "uid": "BEALLCHARGERS0006521"
+      }
+    ],
+    "id": "3ed260dc-4f3c-11e8-9420-42010a840002",
+    "last_updated": "2022-02-02T12:11:54Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "ACV BEALLCHARGERS000652",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "3600",
+    "support_phone_number": "+(32)-(3)-3939209",
+    "time_zone": "Europe/Brussels",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Ida Gerhardtsingel 133",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Zutphen",
+    "coordinates": {
+      "latitude": 52.129325,
+      "longitude": 6.224435
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:38:16Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0082592",
+        "last_updated": "2022-02-01T19:17:58Z",
+        "physical_reference": "NLALLCHARGERS0082592",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0082592"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:38:16Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0082591",
+        "last_updated": "2022-02-02T03:59:27Z",
+        "physical_reference": "NLALLCHARGERS0082591",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0082591"
+      }
+    ],
+    "id": "0907e35a-e7ec-11ea-8920-42010a840003",
+    "last_updated": "2022-02-02T03:59:28Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS008259",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "7207 CL",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Private",
+    "address": "Drieschouwen 102a",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Stekene",
+    "coordinates": {
+      "latitude": 51.219337,
+      "longitude": 4.065091
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1836513",
+            "last_updated": "2021-12-23T06:17:56Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EZBOAHBRNOC5GSF3SKBTCLPORBM",
+        "last_updated": "2022-02-02T13:43:50Z",
+        "physical_reference": "NL*EVB*EZBOAHBRN",
+        "status": "AVAILABLE",
+        "uid": "ZBOAHBRNOC5GSF3SKBTCLPORBM"
+      }
+    ],
+    "facilities": [
+      "SERVICE"
+    ],
+    "id": "af7d43a6-cbce-11e8-8a5a-42010a840002",
+    "last_updated": "2022-02-02T13:43:50Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1834065",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "9190",
+    "related_locations": null,
+    "support_phone_number": "+(32)-(33)-034404",
+    "time_zone": "Europe/Brussels",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Reviusplein 5",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Maassluis",
+    "coordinates": {
+      "latitude": 51.923934,
+      "longitude": 4.264538
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:40:22Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0117722",
+        "last_updated": "2022-02-02T10:31:53Z",
+        "physical_reference": "NLALLCHARGERS0117722",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0117722"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:40:22Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0117721",
+        "last_updated": "2022-02-02T10:25:17Z",
+        "physical_reference": "NLALLCHARGERS0117721",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0117721"
+      }
+    ],
+    "id": "4638c64e-6290-11eb-b2aa-42010a840003",
+    "last_updated": "2022-02-02T10:31:54Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "ACV NLALLCHARGERS011772",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "3141 SV",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Thorbeckeweg 302",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Dordrecht",
+    "coordinates": {
+      "latitude": 51.790687,
+      "longitude": 4.66263
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:38:51Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0111672",
+        "last_updated": "2022-01-31T16:27:17Z",
+        "physical_reference": "NLALLCHARGERS0111672",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0111672"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:38:51Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0111671",
+        "last_updated": "2022-02-02T13:30:50Z",
+        "physical_reference": "NLALLCHARGERS0111671",
+        "status": "CHARGING",
+        "uid": "NLALLCHARGERS0111671"
+      }
+    ],
+    "id": "be671682-125b-11eb-8cb1-42010a840033",
+    "last_updated": "2022-02-02T13:30:51Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS011167",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "3317 EN",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Private",
+    "address": "Quakenbr\u00fccker Stra\u00dfe 24",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Menslage",
+    "coordinates": {
+      "latitude": 52.673594,
+      "longitude": 7.824012
+    },
+    "country": "DEU",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "0",
+            "last_updated": "2021-12-24T03:25:03Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "DE*TNM*E09500323*0",
+        "last_updated": "2022-02-02T13:32:43Z",
+        "physical_reference": "DE*TNM*E09500323",
+        "status": "AVAILABLE",
+        "uid": "09500323_1"
+      }
+    ],
+    "facilities": [
+      "STORE"
+    ],
+    "id": "af4b1ca8-4e71-11e8-9e75-42010a840002",
+    "last_updated": "2022-02-02T13:32:43Z",
+    "location_type": [
+      null
+    ],
+    "name": "09500323",
+    "operator": {
+      "name": "The New Moves"
+    },
+    "owner": {
+      "name": "The New Moves"
+    },
+    "postal_code": "49637",
+    "related_locations": null,
+    "support_phone_number": "+(49)-(30)-21502848",
+    "time_zone": "Europe/Berlin",
+    "type": "PARKING_LOT"
+  },
+  {
+    "access_type": "Public",
+    "address": "Boeierwerf 2",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Leiden",
+    "coordinates": {
+      "latitude": 52.175482,
+      "longitude": 4.514919
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:37:40Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0058361",
+        "last_updated": "2022-01-30T19:47:23Z",
+        "physical_reference": "NLALLCHARGERS0058361",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0058361"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:37:40Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0058362",
+        "last_updated": "2022-02-01T18:03:34Z",
+        "physical_reference": "NLALLCHARGERS0058362",
+        "status": "CHARGING",
+        "uid": "NLALLCHARGERS0058362"
+      }
+    ],
+    "id": "6014c990-b733-11ea-b402-42010a840003",
+    "last_updated": "2022-02-01T18:03:35Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS005836",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "2317 EA",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Nieuwlandersingel 18",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Alkmaar",
+    "coordinates": {
+      "latitude": 52.62724,
+      "longitude": 4.74877
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-02-01T13:40:04Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*GFX*EPP002472*1",
+        "last_updated": "2022-02-02T06:27:07Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NL*GFX*EPP002472",
+        "status": "AVAILABLE",
+        "uid": "NL-GFX-EPP002472-1"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "2",
+            "last_updated": "2022-02-01T13:40:05Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*GFX*EPP002472*2",
+        "last_updated": "2022-02-02T06:27:07Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NL*GFX*EPP002472",
+        "status": "UNKNOWN",
+        "uid": "NL-GFX-EPP002472-2"
+      }
+    ],
+    "facilities": [
+      "BUSINESS"
+    ],
+    "id": "deee9626-4f3c-11e8-803f-42010a840002",
+    "last_updated": "2022-02-01T13:40:05Z",
+    "location_type": [
+      null
+    ],
+    "name": "PP002472",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "PPEV"
+    },
+    "owner": {
+      "name": "PPEV"
+    },
+    "postal_code": "1814 CH",
+    "related_locations": null,
+    "suboperator": {
+      "name": "PPEV"
+    },
+    "support_phone_number": "+(31)-(30)-4100887",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Van Somerenweg 52",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Rotterdam",
+    "coordinates": {
+      "latitude": 51.92112617,
+      "longitude": 4.52114721
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1737610",
+            "last_updated": "2021-12-23T06:13:26Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EONP5L2LDBPHE5L4C5GWARHDH2U",
+        "last_updated": "2022-02-02T16:13:18Z",
+        "physical_reference": "NL*EVB*EONP5L2LD",
+        "status": "AVAILABLE",
+        "uid": "ONP5L2LDBPHE5L4C5GWARHDH2U"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1737711",
+            "last_updated": "2021-12-23T06:13:26Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*ECJCWHDRSAR4DM2TIKKIAOELJJ4",
+        "last_updated": "2022-02-02T14:33:54Z",
+        "physical_reference": "NL*EVB*ECJCWHDRS",
+        "status": "AVAILABLE",
+        "uid": "CJCWHDRSAR4DM2TIKKIAOELJJ4"
+      }
+    ],
+    "id": "d587ee52-4f3c-11e8-9630-42010a840002",
+    "last_updated": "2022-02-02T16:13:19Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1626459",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3062 RK",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Homerusstraat 764",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Rotterdam",
+    "coordinates": {
+      "latitude": 51.874526,
+      "longitude": 4.531431
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "2010963",
+            "last_updated": "2021-12-23T06:29:54Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EYD5HUXSUDQFHVJUGUIEBVT3ZSM",
+        "last_updated": "2022-02-02T15:24:30Z",
+        "physical_reference": "NL*EVB*EYD5HUXSU",
+        "status": "AVAILABLE",
+        "uid": "YD5HUXSUDQFHVJUGUIEBVT3ZSM"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "2010484",
+            "last_updated": "2021-12-23T06:29:54Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EFC6R3GNIQIXFG3ZYYKRGIZ6UEA",
+        "last_updated": "2022-02-02T13:58:18Z",
+        "physical_reference": "NL*EVB*EFC6R3GNI",
+        "status": "AVAILABLE",
+        "uid": "FC6R3GNIQIXFG3ZYYKRGIZ6UEA"
+      }
+    ],
+    "id": "ad564352-1208-11eb-b62f-42010a840fd2",
+    "last_updated": "2022-02-02T15:24:31Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1948607",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3076 LH",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Hyacinthlaan 12",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Noorden",
+    "coordinates": {
+      "latitude": 52.168055,
+      "longitude": 4.825713
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-01-05T10:45:41Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0059222",
+        "last_updated": "2022-01-31T06:17:46Z",
+        "physical_reference": "NLALLCHARGERS0059222",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0059222"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-01-05T10:45:41Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0059221",
+        "last_updated": "2022-02-02T15:30:38Z",
+        "physical_reference": "NLALLCHARGERS0059221",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0059221"
+      }
+    ],
+    "facilities": [
+      "BUSINESS"
+    ],
+    "id": "00a2b590-af31-11e9-b1f9-42010a840003",
+    "last_updated": "2022-02-02T15:30:39Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS005922",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "2431 ZC",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Gemeenschapspolderweg  1",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Weesp",
+    "coordinates": {
+      "latitude": 52.313884,
+      "longitude": 5.025422
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "0",
+            "last_updated": "2021-12-24T03:28:43Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*TNM*E02010422*0",
+        "last_updated": "2022-01-31T18:25:46Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NL*TNM*E02010422",
+        "status": "AVAILABLE",
+        "uid": "02010422_1"
+      }
+    ],
+    "id": "6d181328-7f1c-11e8-b3a7-42010a840002",
+    "last_updated": "2022-02-01T02:34:50Z",
+    "location_type": [
+      null
+    ],
+    "name": "02010422",
+    "operator": {
+      "name": "The New Moves"
+    },
+    "owner": {
+      "name": "The New Moves"
+    },
+    "postal_code": "1382 JL",
+    "support_phone_number": "+(31)-(88)-0109500",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Industrieweg 17",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Stein",
+    "coordinates": {
+      "latitude": 50.977578,
+      "longitude": 5.764242
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "1408158",
+            "last_updated": "2021-12-23T06:21:44Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*ECR43PSED5DXVGKZFZWCIHYU42Y",
+        "last_updated": "2022-01-29T16:13:50Z",
+        "physical_reference": "NL*EVB*ECR43PSED",
+        "status": "AVAILABLE",
+        "uid": "CR43PSED5DXVGKZFZWCIHYU42Y"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "1408156",
+            "last_updated": "2021-12-23T06:21:44Z",
+            "max_power": 7360,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EJNAT2JTPFGVI6GQM3LJEAKP35U",
+        "last_updated": "2022-02-02T09:21:26Z",
+        "physical_reference": "NL*EVB*EJNAT2JTP",
+        "status": "AVAILABLE",
+        "uid": "JNAT2JTPFGVI6GQM3LJEAKP35U"
+      }
+    ],
+    "id": "59357e0a-8979-11e9-9abd-42010a840003",
+    "last_updated": "2022-02-02T09:21:27Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1406142",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "6171 CN",
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Place Dailly 2",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Schaerbeek - Schaarbeek",
+    "coordinates": {
+      "latitude": 50.85198,
+      "longitude": 4.38714
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "2",
+            "last_updated": "2022-01-22T22:08:47Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*GFX*EPP003234*2",
+        "last_updated": "2022-02-02T14:34:46Z",
+        "physical_reference": "BE*GFX*EPP003234",
+        "status": "CHARGING",
+        "uid": "BE-GFX-EPP003234-2"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-01-24T21:30:12Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*GFX*EPP003234*1",
+        "last_updated": "2022-02-02T14:57:54Z",
+        "physical_reference": "BE*GFX*EPP003234",
+        "status": "CHARGING",
+        "uid": "BE-GFX-EPP003234-1"
+      }
+    ],
+    "id": "23cc4a48-d0ca-11ea-b0b3-42010a840fd8",
+    "last_updated": "2022-02-02T14:57:55Z",
+    "location_type": [
+      null
+    ],
+    "name": "PP003234",
+    "opening_times": {
+      "exceptional_closings": null,
+      "exceptional_openings": null,
+      "regular_hours": null,
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "Green EV"
+    },
+    "owner": {
+      "name": "Green EV"
+    },
+    "postal_code": "1030",
+    "suboperator": {
+      "name": "Green EV"
+    },
+    "support_phone_number": "+(32)-(0800)-11899",
+    "time_zone": "Europe/Brussels",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Public",
+    "address": "Van der Valk Boumanweg 230",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Leiderdorp",
+    "coordinates": {
+      "latitude": 52.160425,
+      "longitude": 4.516279
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:28:45Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0029142",
+        "last_updated": "2022-01-30T12:24:16Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0029142",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0029142"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:28:45Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0029141",
+        "last_updated": "2022-02-02T07:04:30Z",
+        "physical_reference": "NLALLCHARGERS0029141",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0029141"
+      }
+    ],
+    "id": "20c4fe5c-bd31-11e8-a834-42010a840002",
+    "last_updated": "2022-02-02T07:04:30Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS002914",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "2352 JG",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Normastraat 54",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Apeldoorn",
+    "coordinates": {
+      "latitude": 52.231376,
+      "longitude": 5.984611
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:30:40Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0056122",
+        "last_updated": "2022-02-02T14:20:30Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0056122",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0056122"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:30:40Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0056121",
+        "last_updated": "2022-02-02T15:40:13Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0056121",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0056121"
+      }
+    ],
+    "id": "e5d267ce-4be9-11e9-a53a-42010a840003",
+    "last_updated": "2022-02-02T15:40:14Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS005612",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "7323 TT",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Kruiskampsingel 108",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "'s-Hertogenbosch",
+    "coordinates": {
+      "latitude": 51.701216,
+      "longitude": 5.258355
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:29:38Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0030691",
+        "last_updated": "2022-02-01T16:03:43Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0030691",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0030691"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:29:38Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0030692",
+        "last_updated": "2022-02-02T08:53:03Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0030692",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0030692"
+      }
+    ],
+    "id": "9ff2d1d4-fe6f-11e8-a790-42010a840002",
+    "last_updated": "2022-02-02T08:53:04Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS003069",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "5224 KP",
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Siemenslaan 11",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Oostkamp",
+    "coordinates": {
+      "latitude": 51.147692,
+      "longitude": 3.240696
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "CABLE",
+            "id": "2015626",
+            "last_updated": "2021-12-23T06:28:45Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EJY7JZSZ6XTK2JDN4E5IHCVY3H4",
+        "last_updated": "2022-02-02T12:39:06Z",
+        "physical_reference": "NL*EVB*EJY7JZSZ6",
+        "status": "AVAILABLE",
+        "uid": "JY7JZSZ6XTK2JDN4E5IHCVY3H4"
+      },
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "CABLE",
+            "id": "2015073",
+            "last_updated": "2021-12-23T06:28:45Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EZDSOAWSYAPWLIUPEQM5HXCWPEU",
+        "last_updated": "2022-01-24T17:34:29Z",
+        "physical_reference": "NL*EVB*EZDSOAWSY",
+        "status": "AVAILABLE",
+        "uid": "ZDSOAWSYAPWLIUPEQM5HXCWPEU"
+      }
+    ],
+    "id": "1f825ea2-dd34-11ea-a912-42010a840fd8",
+    "last_updated": "2022-02-02T12:39:07Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1926387",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "8020",
+    "support_phone_number": "+(32)-(33)-034404",
+    "time_zone": "Europe/Brussels",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Private",
+    "address": "Ruelle du Cur\u00e9 1",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Lasne",
+    "coordinates": {
+      "latitude": 50.692707,
+      "longitude": 4.500379
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1407041",
+            "last_updated": "2021-12-23T06:10:41Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*E7Z4DW6RATHN54CBNHLO2TK5LBQ",
+        "last_updated": "2021-12-23T06:10:41Z",
+        "physical_reference": "NL*EVB*E7Z4DW6RA",
+        "status": "AVAILABLE",
+        "uid": "7Z4DW6RATHN54CBNHLO2TK5LBQ"
+      }
+    ],
+    "id": "df7dc1f4-4e72-11e8-b538-42010a840002",
+    "last_updated": "2022-02-01T05:33:09Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1407046",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "1380",
+    "support_phone_number": "+(32)-(33)-034404",
+    "time_zone": "Europe/Brussels",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Oenselsestraat 34",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Zaltbommel",
+    "coordinates": {
+      "latitude": 51.813458,
+      "longitude": 5.252805
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:25:04Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0023951",
+        "last_updated": "2022-02-02T13:41:09Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "physical_reference": "NLALLCHARGERS0023951",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0023951"
+      }
+    ],
+    "facilities": [
+      "BUSINESS"
+    ],
+    "id": "91698e2e-4f3c-11e8-be70-42010a840002",
+    "last_updated": "2022-02-02T13:41:09Z",
+    "location_type": [
+      null
+    ],
+    "name": "ACV NLALLCHARGERS002395",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "5301 EP",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Public",
+    "address": "Avenue Voltaire 179",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Schaerbeek - Schaarbeek",
+    "coordinates": {
+      "latitude": 50.86553,
+      "longitude": 4.38027
+    },
+    "country": "BEL",
+    "evses": [
+      {
+        "capabilities": [],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "2",
+            "last_updated": "2022-02-01T13:43:04Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*GFX*EPP003228*2",
+        "last_updated": "2022-02-02T18:18:17Z",
+        "physical_reference": "BE*GFX*EPP003228",
+        "status": "AVAILABLE",
+        "uid": "BE-GFX-EPP003228-2"
+      },
+      {
+        "capabilities": [],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-02-01T13:43:04Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "BE*GFX*EPP003228*1",
+        "last_updated": "2022-02-02T18:31:59Z",
+        "physical_reference": "BE*GFX*EPP003228",
+        "status": "CHARGING",
+        "uid": "BE-GFX-EPP003228-1"
+      }
+    ],
+    "id": "1944fc34-e941-11ea-a18b-42010a840014",
+    "last_updated": "2022-02-02T18:32:00Z",
+    "location_type": [
+      null
+    ],
+    "name": "PP003228",
+    "opening_times": {
+      "exceptional_closings": null,
+      "exceptional_openings": null,
+      "regular_hours": null,
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "Green EV"
+    },
+    "owner": {
+      "name": "Green EV"
+    },
+    "postal_code": "1030",
+    "suboperator": {
+      "name": "Green EV"
+    },
+    "support_phone_number": "+(32)-(0800)-11899",
+    "time_zone": "Europe/Brussels",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Public",
+    "address": "Maalderij 32",
+    "adhoc_authorisation_method": [
+      "CREDIT_CARD"
+    ],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Amstelveen",
+    "coordinates": {
+      "latitude": 52.28907,
+      "longitude": 4.840146
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:34:14Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0044351",
+        "last_updated": "2022-02-02T15:35:42Z",
+        "physical_reference": "NLALLCHARGERS0044351",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0044351"
+      },
+      {
+        "capabilities": [
+          "CREDIT_CARD_PAYABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2021-12-23T01:34:14Z",
+            "max_power": 11040,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NLALLCHARGERS0044352",
+        "last_updated": "2022-02-02T17:48:47Z",
+        "physical_reference": "NLALLCHARGERS0044352",
+        "status": "AVAILABLE",
+        "uid": "NLALLCHARGERS0044352"
+      }
+    ],
+    "facilities": [
+      "STORE"
+    ],
+    "id": "81f1f8c2-123c-11ea-983e-42010a840003",
+    "last_updated": "2022-02-02T17:48:48Z",
+    "location_type": [
+      {
+        "code": "PARKING_LOT",
+        "description": "PARKING_LOT"
+      }
+    ],
+    "name": "ACV NLALLCHARGERS004435",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "ACV"
+    },
+    "owner": {
+      "name": "ACV"
+    },
+    "postal_code": "1185 ZC",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-0333033",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Private",
+    "address": "Bosch 24",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": true,
+    "city": "Papendrecht",
+    "coordinates": {
+      "latitude": 51.824419,
+      "longitude": 4.689834
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 16,
+            "format": "SOCKET",
+            "id": "1419043",
+            "last_updated": "2021-12-23T06:06:11Z",
+            "max_power": 3680,
+            "power_type": "AC_1_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*EVB*EFU5N4XWHPEZXEHY6QQTE4PM2PY",
+        "last_updated": "2021-12-23T06:06:11Z",
+        "physical_reference": "NL*EVB*EFU5N4XWH",
+        "status": "AVAILABLE",
+        "uid": "FU5N4XWHPEZXEHY6QQTE4PM2PY"
+      }
+    ],
+    "facilities": [
+      "STORE"
+    ],
+    "id": "ea663250-4e71-11e8-a98a-42010a840002",
+    "last_updated": "2022-01-31T06:02:40Z",
+    "location_type": [
+      null
+    ],
+    "name": "EVB-P1408086",
+    "operator": {
+      "name": "EVB"
+    },
+    "owner": {
+      "name": "EVB"
+    },
+    "postal_code": "3353 GE",
+    "related_locations": null,
+    "support_phone_number": "+(31)-(88)-7755450",
+    "time_zone": "Europe/Amsterdam",
+    "type": "UNKNOWN"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Schlossberg 47",
+    "adhoc_authorisation_method": [
+      "OTHER"
+    ],
+    "charging_behaviour": [],
+    "city": "St. Goar",
+    "coordinates": {
+      "latitude": 50.153562,
+      "longitude": 7.705422
+    },
+    "country": "DEU",
+    "evses": [
+      {
+        "capabilities": [
+          "CHARGING_PROFILE_CAPABLE",
+          "REMOTE_START_STOP_CAPABLE",
+          "RFID_READER",
+          "UNLOCK_CAPABLE"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "CABLE",
+            "id": "dc302621",
+            "last_updated": "2021-10-20T02:21:11Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "TESLA_S",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "dc302621",
+        "last_updated": "2021-12-07T08:04:10Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "status": "UNKNOWN",
+        "uid": "dc302621"
+      },
+      {
+        "capabilities": [],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "CABLE",
+            "id": "dc302622",
+            "last_updated": "2021-10-20T02:21:11Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "TESLA_S",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "dc302622",
+        "last_updated": "2021-10-20T02:21:11Z",
+        "parking_restrictions": [
+          "EV_ONLY"
+        ],
+        "status": "UNKNOWN",
+        "uid": "dc302622"
+      }
+    ],
+    "id": "725f231c-466d-11e9-bf02-42010a840003",
+    "last_updated": "2021-10-20T02:21:11Z",
+    "location_type": [
+      null
+    ],
+    "name": "MuskEV Destination Charger Romantik Hotel Schloss Rheinfels",
+    "opening_times": {
+      "twentyfourseven": false
+    },
+    "operator": {
+      "name": "MuskEV"
+    },
+    "owner": {
+      "name": "MuskEV"
+    },
+    "postal_code": "56329",
+    "support_phone_number": "+(49)-(8921)-093303",
+    "time_zone": "Europe/Berlin",
+    "type": "ON_STREET"
+  },
+  {
+    "access_type": "Restricted",
+    "address": "Budschop 32",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": false,
+    "city": "Nederweert",
+    "coordinates": {
+      "latitude": 51.287273,
+      "longitude": 5.764994
+    },
+    "country": "NLD",
+    "evses": [
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "2",
+            "last_updated": "2022-01-28T18:21:24Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*LMS*E1000018490*2",
+        "last_updated": "2022-01-31T19:03:26Z",
+        "physical_reference": "GSP_0019",
+        "status": "AVAILABLE",
+        "uid": "1000018490*2"
+      },
+      {
+        "capabilities": [
+          "REMOTE_START_STOP_CAPABLE",
+          "RESERVABLE",
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 32,
+            "format": "SOCKET",
+            "id": "1",
+            "last_updated": "2022-01-28T18:21:24Z",
+            "max_power": 22080,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "NL*LMS*E1000018490*1",
+        "last_updated": "2022-01-31T19:03:26Z",
+        "physical_reference": "GSP_0019",
+        "status": "AVAILABLE",
+        "uid": "1000018490*1"
+      }
+    ],
+    "id": "b278ce5e-8b6b-11eb-ae89-42010a840003",
+    "last_updated": "2022-01-31T19:03:26Z",
+    "location_type": [
+      null
+    ],
+    "name": "evensnelladen GSP_0019",
+    "opening_times": {
+      "twentyfourseven": true
+    },
+    "operator": {
+      "name": "EVCharger Solutions"
+    },
+    "owner": {
+      "name": "EVCharger Solutions"
+    },
+    "postal_code": "6031 AJ",
+    "suboperator": {
+      "name": "evensnelladen"
+    },
+    "support_phone_number": "+(31)-(85)-0402584",
+    "time_zone": "Europe/Amsterdam",
+    "type": "OTHER"
+  },
+  {
+    "access_type": "Public",
+    "address": "Via Geminiano Loschi",
+    "adhoc_authorisation_method": [],
+    "charging_behaviour": [],
+    "charging_when_closed": false,
+    "city": "Soliera",
+    "coordinates": {
+      "latitude": 44.731994,
+      "longitude": 10.923633
+    },
+    "country": "ITA",
+    "evses": [
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 31,
+            "format": "SOCKET",
+            "id": "IT*EVO*E18XP22T3KK4AH00170*1*1",
+            "last_updated": "2022-02-02T10:17:36Z",
+            "max_power": 21390,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "IT*EVO*E18XP22T3KK4AH00170*1",
+        "last_updated": "2022-02-02T10:17:36Z",
+        "status": "AVAILABLE",
+        "uid": "IT*EVO*E18XP22T3KK4AH00170*1"
+      },
+      {
+        "capabilities": [
+          "RFID_READER"
+        ],
+        "connectors": [
+          {
+            "amperage": 31,
+            "format": "SOCKET",
+            "id": "IT*EVO*E18XP22T3KK4AH00170*2*2",
+            "last_updated": "2022-02-02T10:17:36Z",
+            "max_power": 21390,
+            "power_type": "AC_3_PHASE",
+            "standard": "IEC_62196_T2",
+            "voltage": 230
+          }
+        ],
+        "evse_id": "IT*EVO*E18XP22T3KK4AH00170*2",
+        "last_updated": "2022-02-02T10:17:36Z",
+        "status": "AVAILABLE",
+        "uid": "IT*EVO*E18XP22T3KK4AH00170*2"
+      }
+    ],
+    "id": "c5d31820-ddf1-11e9-bc79-42010a840003",
+    "last_updated": "2022-02-02T10:17:37Z",
+    "location_type": [
+      null
+    ],
+    "name": "0061p00000gfUoR",
+    "operator": {
+      "name": "EVX"
+    },
+    "owner": {
+      "name": "EVX"
+    },
+    "postal_code": "41019",
+    "support_phone_number": "+(39)-(800)-069850",
+    "time_zone": "Europe/Rome",
+    "type": "ON_STREET"
+  }
+]
