@@ -142,8 +142,24 @@ def get_locations():
             SELECT * FROM locations
         """).fetchall()
         
-        return jsonify([dict(location) for location in locations])
-
+        result = []
+        for location in locations:
+            evse_count = cursor.execute("""
+                SELECT COUNT(*) FROM evses WHERE location_id = ?
+            """, (location["id"],)).fetchone()[0]
+            
+            result.append({
+                "coordinates": {
+                    "lat": location["lat"],
+                    "lon": location["lon"]
+                },
+                "operator_reference": location["operator_reference"],
+                "country_reference": location["country_reference"],
+                "postal_code": location["postal_code"],
+                "number_of_evses": evse_count
+            })
+        
+        return jsonify({"locations": result})
 @app.route("/locations/<reference>")
 def get_location(reference):
     with get_connection() as connection:
@@ -172,10 +188,19 @@ def get_location(reference):
                 "connectors": [{"power": c["power"], "standard": c["standard"]} for c in connectors]
             })
 
-        result = dict(location)
-        result["evses"] = evse_list
+    result = {
+    "coordinates": {
+        "lat": location["lat"],
+        "lon": location["lon"]
+    },
+    "operator_reference": location["operator_reference"],
+    "country_reference": location["country_reference"],
+    "postal_code": location["postal_code"],
+    "evses": evse_list
+}
 
-        return jsonify(result)
+    return jsonify(result)
+
 
 if __name__ == "__main__":
     app.run(debug=True)
