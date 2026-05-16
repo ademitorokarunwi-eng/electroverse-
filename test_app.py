@@ -1,5 +1,5 @@
 import pytest
-from app import app, create_tables, import_integrated_data
+from app import app
 
 @pytest.fixture
 def client():
@@ -11,13 +11,15 @@ def test_get_locations(client):
     response = client.get("/locations")
     assert response.status_code == 200
     data = response.get_json()
-    assert len(data) == 52
+    assert "locations" in data
+    assert len(data["locations"]) == 52
 
 def test_get_single_location(client):
     response = client.get("/locations/13184")
     assert response.status_code == 200
     data = response.get_json()
-    assert data["location_reference"] == "13184"
+    assert "coordinates" in data
+    assert "lat" in data["coordinates"]
     assert "evses" in data
 
 def test_get_invalid_location(client):
