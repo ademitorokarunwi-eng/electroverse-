@@ -202,5 +202,7 @@ def get_location(reference):
     return jsonify(result)
 
 
-if __name__ == "__main__":
+if_name__ == "__main__":
+    create_tables()
+    import_integrated_data()
     app.run(debug=True)
