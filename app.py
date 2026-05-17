@@ -188,18 +188,18 @@ def get_location(reference):
                 "connectors": [{"power": c["power"], "standard": c["standard"]} for c in connectors]
             })
 
-    result = {
-    "coordinates": {
-        "lat": location["lat"],
-        "lon": location["lon"]
-    },
-    "operator_reference": location["operator_reference"],
-    "country_reference": location["country_reference"],
-    "postal_code": location["postal_code"],
-    "evses": evse_list
-}
+ result = {
+            "coordinates": {
+                "lat": location["lat"],
+                "lon": location["lon"]
+            },
+            "operator_reference": location["operator_reference"],
+            "country_reference": location["country_reference"],
+            "postal_code": location["postal_code"],
+            "evses": evse_list
+        }
 
-    return jsonify(result)
+        return jsonify(result)
 
 
 if__name__ == "__main__":
